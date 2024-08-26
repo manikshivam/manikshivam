@@ -9,28 +9,11 @@ Welcome to my GitHub profile! I'm a passionate backend developer with over 3 yea
     Others: Kafka, Zookeeper, Schedulers, Web Scraping, PDF Engine, Caching, Redis, Celery, Docker
 
 💼 Work Experience
-MOB (Backend Developer)
+Maxgen technologies internship (Backend Developer)
 
     Created the entire backend for a B2B startup focused on same-day construction material delivery.
     Designed the database schema, developed the e-commerce checkout funnel, and integrated APIs.
-    Tech stack: Django, ReactJS.
-
-Supersourcing (Backend Developer)
-
-    Worked on Inq, an omni-channel platform in Africa.
-    Developed multiple APIs, managed backend databases, and integrated third-party APIs for billing systems.
-    Implemented Elasticsearch and Kibana, and worked with Salesforce for sales data dashboards.
-    Tech stack: Django Rest Framework, Celery, Redis, Elasticsearch, Salesforce.
-
-CognoAI (Full Stack Python Developer)
-
-    Developed backend APIs for projects like Kotak Bank.
-    Created chatbots and built online test functionalities for the Easy Step project.
-    Tech stack: Django, Django Rest Framework, JavaScript.
-
-CognoAI (Full Stack Python Developer)
-
-    Worked as a freelancer when back in College
+    Tech stack: Django,Flask,FastAPI
 
 🚀 Projects & Contributions
 
@@ -39,13 +22,7 @@ CognoAI (Full Stack Python Developer)
     Notification System: Developed a system for order status change notifications using Celery and Redis.
     Desktop Application for Consultancy Form: Built a CRUD application with rich text fields, file attachments, and search/filter functionalities.
 
-📺 YouTube Channel
 
-I run a YouTube channel where I teach backend development, focusing on making advanced topics easy to understand. Some of my popular tutorials include:
-
-    Integrating Django with Kafka and Zookeeper
-    Creating a Celery Beat periodic scheduler
-    Real-time location tracking with Google Maps and Kafka
 
 🌐 Connect with Me
 
