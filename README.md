@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with over 3 yea
 
 ## 💼 Work Experience
 
-### Media Tech Temple (Backend Developer)
+### Rimik Technology (Backend Developer)
 
 - Created the entire backend for a B2B startup focused on same-day construction material delivery.
 - Designed the database schema, developed the e-commerce checkout funnel, and integrated APIs.
